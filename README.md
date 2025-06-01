@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashok7890-reddy
-- 👀 I’m interested in Python + Machine Learning 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ML & Web development
+- 👀 I’m interested in Python , Data Science  
+- 🌱 I’m currently Exploring Machine learning libraries - YoloV's and   
+- 💞️ I’m looking to collaborate on ML & Data Science
 - 📫 How to reach me @8008951947
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
