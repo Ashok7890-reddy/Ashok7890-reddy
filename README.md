@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashok7890-reddy
-- 👀 I’m interested in Python , Data Science  
+- 👀 I’m interested in Python , Ai & ML 
 - 🌱 I’m currently Exploring Machine learning libraries - YoloV's and   
 - 💞️ I’m looking to collaborate on ML & Data Science
 - 📫 How to reach me @8008951947
